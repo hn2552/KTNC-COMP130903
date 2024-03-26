@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d51e3b2-14c5-4b6c-b67e-98faa0693320</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6bd078a-c6b3-4a9c-8ddf-91c171597769</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28048b37-a636-4912-a924-0379d67c411e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6bd078a-c6b3-4a9c-8ddf-91c171597769</id>
+      <masked>false</masked>
+      <name>Taikhoan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28048b37-a636-4912-a924-0379d67c411e</id>
+      <masked>false</masked>
+      <name>Matkhau</name>
+   </variable>
+</TestCaseEntity>
